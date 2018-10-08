@@ -1,0 +1,63 @@
+// Panels
+
+.atom-dock-inner.atom-dock-open.left {
+  border: none;
+}
+
+atom-panel {
+  .text(normal);
+  position: relative;
+  border-bottom: none;
+
+  &.top {
+    border-right: none;
+  }
+  &.left {
+    border-right: none;
+  }
+  &.right {
+    border-left: none;
+  }
+  &.bottom {
+    border-right: none;
+  }
+  &.footer:last-child {
+    border-bottom: none;
+  }
+  &.tool-panel:empty {
+    border: none;
+  }
+}
+
+.panel {
+  &.bordered {
+    border: none;
+  }
+}
+
+.inset-panel {
+  position: relative;
+  background-color: @inset-panel-background-color;
+  &.bordered {
+    border: none;
+  }
+  & .panel-heading {
+    border-color: transparent;
+  }
+}
+
+.panel-heading {
+  .text(normal);
+  border-bottom: none;
+
+  .btn {
+    padding-left: 8px;
+    padding-right: 8px;
+    .btn-default(
+      lighten(@button-background-color, 10%),
+      lighten(@button-background-color-hover, 10%),
+      lighten(@button-background-color-selected, 10%),
+      lighten(@text-color, 10%)
+    );
+  }
+}
