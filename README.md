@@ -1,6 +1,6 @@
 # Roguelike UI
 
-The Rogue-like theme for Atom.
+The Rogue-like theme for Atom. Based on the original Rogue release for IBM PC, though with some elements from later roguelikes like @ rather than the smiley face of the original.
 
 FEATURES
 - @, hero of legend as your fearless cursor.

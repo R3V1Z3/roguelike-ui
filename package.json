@@ -2,11 +2,12 @@
   "name": "roguelike-ui",
   "theme": "ui",
   "version": "0.0.1",
-  "description": "Git, ye rogue, from me lovely Atom!",
+  "description": "The roguelike theme for Atom",
   "keywords": [
-    "light",
-    "adaptive",
-    "ui"
+    "dark",
+    "ui",
+    "rogue",
+    "gaming"
   ],
   "license": "MIT",
   "repository": "https://github.com/atom/roguelike-ui",
