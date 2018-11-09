@@ -2,7 +2,7 @@
   "name": "roguelike-ui",
   "theme": "ui",
   "version": "0.0.1",
-  "description": "The roguelike theme for Atom",
+  "description": "The roguelike UI for Atom",
   "keywords": [
     "dark",
     "ui",
