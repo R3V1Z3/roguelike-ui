@@ -1,6 +1,6 @@
 # Roguelike UI
 
-The Rogue-like theme for Atom. Based on the original [Rogue](https://en.wikipedia.org/wiki/Rogue_(video_game)) release for IBM PC, though with some elements from later roguelikes like @ rather than the smiley face of the original.
+The Rogue-like theme for Atom. Based on the original [Rogue](https://archive.org/details/msdos_Rogue_1983) release for IBM PC, though with some elements from later roguelikes like @ rather than the smiley face of the original.
 
 > JSON with [SMYCK Subtle syntax theme](https://atom.io/packages/smyck-subtle-syntax).
 ![JSON with SMYCK Subtle syntax theme](/screenshots/roguelike-ui-smyck-subtle.png)
@@ -13,4 +13,4 @@ The Rogue-like theme for Atom. Based on the original [Rogue](https://en.wikipedi
 ## Credits
 - @Atom One Dark UI team - core UI.
 - @Ugotsta - implemented @ as cursor.
-- @Michael Toy, @Glenn Wichman and other @contributors - [Rogue](https://en.wikipedia.org/wiki/Rogue_(video_game).
+- @Michael Toy, @Glenn Wichman and other @contributors - Rogue.
